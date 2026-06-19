@@ -1,0 +1,11 @@
+{
+    "average_sleep_hours": 6.49,
+    "average_stress_level": "4.71 (Moderate \ud83d\udfe1)",
+    "average_daily_steps": 7358,
+    "average_activity_duration_min": 53.14,
+    "goals": {
+        "target_sleep_hours": 8,
+        "target_daily_steps": 5000,
+        "target_activity_duration": 40
+    }
+}

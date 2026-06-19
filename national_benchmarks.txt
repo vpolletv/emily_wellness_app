@@ -1,0 +1,269 @@
+### (1) Short Summary (2–3 sentences)
+
+For **sleep**, large U.S. surveys around 2015–2018 suggest adults overall report about **7.5–7.7 hours of sleep per night on average**, and 2020 NHIS data show that roughly **one-quarter to one-third of adults (including women 18–44)** sleep under 7 hours; however, no 2020+ national mean is published specifically for **women 30–39**. ([pmc.ncbi.nlm.nih.gov][1])
+
+For **moderate-to-vigorous physical activity (MVPA), daily steps, and resting heart rate (RHR)**, U.S. public-health surveillance since 2020 mainly reports guideline adherence and broad “normal ranges” rather than precise age-specific means; **no reliable 2020+ national mean values specific to adults 30–39 (or women 30–39 for RHR) could be identified**. Older NHANES accelerometer and pulse data (1999–2008, 2003–2006, 2005–2006) provide background but are now dated and not directly comparable to modern devices or post-COVID behavior. ([PubMed][2])
+
+---
+
+### (2) Detailed Findings (Bullet Lists)
+
+#### Indicator 1 — Average Sleep Duration
+
+> “Average nightly sleep duration of women aged 30–39 in the United States.”
+
+* **Age range used**
+
+  * Best available *mean* sleep-duration data: **U.S. adults ≥18 years**, NHANES 2015–2018 (no published 30–39-specific mean in 2020+ data located). ([pmc.ncbi.nlm.nih.gov][1])
+  * Sleep difficulties and short-sleep prevalence: **adults ≥18**, with subgroup reporting for **18–44 years** by sex in NHIS/CDC briefs. ([cdc.gov][3])
+
+* **Mean value**
+
+  * NHANES 2015–2018 analysis of U.S. adults reports a **total average sleep duration of about 7.6 hours per night (7.65 ± 1.58 h)**. ([pmc.ncbi.nlm.nih.gov][1])
+  * This estimate is for **all adults**, not specifically women 30–39. Age-specific means for women 30–39 could not be located in publicly accessible 2020+ national datasets.
+
+* **Country/region**
+
+  * **United States**, nationally representative samples (NHANES, NHIS). ([jamanetwork.com][4])
+
+* **Year(s) of data collection**
+
+  * Mean sleep duration: **2015–2018** (NHANES). ([pmc.ncbi.nlm.nih.gov][1])
+  * Sleep difficulties and short sleep prevalence: **2020 NHIS** (sleep difficulties) and **2013–2014 or 2017–2019 NHIS/BRFSS** (short sleep <7 h by age and sex). ([cdc.gov][3])
+
+* **Key descriptive findings (2020+ relevant)**
+
+  * 2020 NHIS: >25% of U.S. adults do **not** meet the ≥7-hour recommendation; sleep difficulties (trouble falling or staying asleep, daytime tiredness) are common. ([cdc.gov][3])
+  * MMWR QuickStats show that among adults **18–44 years**, roughly **30% of women** and **28–30% of men** report sleeping <7 hours on average, indicating that **most but not all** young adults meet the 7-hour threshold. ([pmc.ncbi.nlm.nih.gov][5])
+
+* **Source name(s)**
+
+  * **National Health and Nutrition Examination Survey (NHANES) 2015–2018** – U.S. adults, self-reported sleep duration. ([pmc.ncbi.nlm.nih.gov][1])
+  * **National Health Interview Survey (NHIS) 2020** – NCHS Data Brief “Sleep Difficulties in Adults: United States, 2020”. ([cdc.gov][3])
+  * **MMWR QuickStats** – Percentage of adults who sleep <7 hours, by sex and age group. ([pmc.ncbi.nlm.nih.gov][5])
+
+* **Methodological / limitation notes**
+
+  * All cited sleep measures are **self-reported hours in a typical 24-hour period**, rounded to the nearest hour in NHIS; this can introduce rounding and recall bias. ([jamanetwork.com][4])
+  * NHANES 2015–2018 average (≈7.6 h) is **pre-2020** and may not fully reflect post-pandemic sleep changes.
+  * No public 2020+ U.S. national tabulation was found that reports **mean hours specifically for women aged 30–39**. Any application to that subgroup requires strong caution and should be treated as **background only**, not a precise benchmark.
+
+---
+
+#### Indicator 2 — Moderate-to-Vigorous Physical Activity (MVPA)
+
+> “Average daily moderate-to-vigorous physical activity minutes for adults aged 30–39.”
+
+* **Age range used**
+
+  * U.S. guidelines: **adults 18–64 years** (Physical Activity Guidelines for Americans, 2nd ed.). ([health.gov][6])
+  * Surveillance of guideline adherence typically covers **adults ≥18** and does *not* publish nationally representative mean MVPA minutes per day by single age band like 30–39 for 2020+. ([www.heart.org][7])
+
+* **Mean value**
+
+  * **No reliable 2020+ national estimate of “average daily MVPA minutes” for adults aged 30–39 in the U.S. is available.**
+  * Public-health reports instead emphasize **proportion meeting guidelines**, not mean daily minutes.
+
+* **Guideline context (not a measured mean)**
+
+  * U.S. and WHO recommendations: at least **150–300 minutes/week of moderate-intensity** or **75–150 minutes/week of vigorous-intensity** aerobic activity (or an equivalent combination) for adults 18–64 — i.e., roughly **21–43 minutes of MVPA per day** as a *target*, not an observed average. ([health.gov][6])
+  * AHA 2024 statistical update notes that only **~24.2% of U.S. adults** meet both aerobic and muscle-strengthening recommendations, implying that **typical population MVPA is below guideline targets**, but it does not provide a mean daily MVPA duration. ([www.heart.org][7])
+
+* **Country/region**
+
+  * United States, national surveillance (NHIS, NHANES) informing federal guidelines and AHA statistics. ([health.gov][6])
+
+* **Year(s) of data collection (for key references)**
+
+  * Physical Activity Guidelines 2nd ed.: evidence base largely up to **2018**, still used in 2020s policy. ([health.gov][6])
+  * AHA Heart Disease and Stroke Statistics: 2024 update summarizing latest national surveys. ([www.heart.org][7])
+
+* **Pre-2020 background (non-benchmark)**
+
+  * Accelerometer-based analyses using **NHANES 2003–2006** describe low volumes of MVPA, but results are highly sensitive to device type and MVPA cut-points and are **not reported as simple national means for 30–39-year-olds**. ([pmc.ncbi.nlm.nih.gov][8])
+  * Because these data are more than a decade old and methods have evolved, they are **unsuitable as a precise 2020+ benchmark** for today’s 30–39 age group.
+
+* **Source name(s)**
+
+  * **Physical Activity Guidelines for Americans, 2nd edition** (U.S. Department of Health and Human Services). ([health.gov][6])
+  * **2024 Heart Disease and Stroke Statistics – AHA** (summary of U.S. physical activity adherence). ([www.heart.org][7])
+  * **NHANES accelerometry analyses 2003–2006** (e.g., Strath et al., Wolff-Hughes et al.), used only for historical context. ([pmc.ncbi.nlm.nih.gov][8])
+
+* **Methodological / limitation notes**
+
+  * MVPA estimates depend strongly on **how accelerometer counts per minute are translated into “moderate” or “vigorous”** thresholds, and whether activity must be in ≥10-minute bouts. ([ResearchGate][9])
+  * Post-2020, consumer wearables and smartphones have become more common, but **their data are not yet integrated into a standardized, nationally representative 30–39-specific MVPA benchmark**.
+  * Because of these issues, providing a single numeric “average daily MVPA minutes” for adults 30–39 in the U.S. would require speculation, which is **not ethically acceptable** here.
+
+---
+
+#### Indicator 3 — Daily Steps
+
+> “Average daily step count of adults aged 30–39.”
+
+* **Age range used**
+
+  * Best-known U.S. step-count data come from **NHANES 2005–2006** in adults **≥20 years**; age-specific means for 30–39 are not easily extractable from publicly accessible summaries. ([PubMed][2])
+  * More recent summaries (2024–2025) often report **average American adults** taking about **4,000–5,000 steps per day**, aggregating multiple international cohorts and U.S. samples, but typically **not broken out by exact age band 30–39**. ([Verywell Health][10])
+
+* **Mean value**
+
+  * **No reliable 2020+ U.S. national estimate of “average daily step count” specifically for adults aged 30–39 is available.**
+  * Historical background (not a 2020+ benchmark):
+
+    * NHANES 2005–2006 accelerometer study of U.S. adults ≥20 years reported mean **~9,700 steps/day including all steps** and **~6,500 steps/day when very-low-intensity steps were censored**, across the adult population. ([PubMed][2])
+
+* **Country/region**
+
+  * United States (NHANES), plus international cohorts summarized in recent dose–response meta-analyses on steps and health outcomes. ([PubMed][2])
+
+* **Year(s) of data collection (for key references)**
+
+  * NHANES accelerometer steps: primarily **2005–2006**. ([PubMed][2])
+  * International meta-analyses on daily steps and mortality: datasets up to about **2021–2022**; umbrella review updated through **2024–2025**. ([thelancet.com][11])
+
+* **Pre-2020 background (non-benchmark)**
+
+  * The NHANES 2005–2006 step-count data are based on **hip-worn accelerometers**, while today’s counts often come from **wrist-worn wearables or smartphones**, which systematically differ in step detection. ([cdc.gov][12])
+  * As a result, these older values **cannot be straightforwardly used as a precise “current” benchmark** for 30–39-year-olds in the 2020s.
+
+* **Source name(s)**
+
+  * **“Accelerometer-determined steps per day in U.S. adults”** (NHANES 2005–2006 analysis). ([PubMed][2])
+  * **Lancet Public Health / Lancet Public Health umbrella/meta-analyses** of steps and mortality (Paluch et al. 2022; Ding et al. 2025). ([thelancet.com][11])
+  * **Consumer-facing summaries** (Verywell Health, etc.) that synthesize multiple cohorts but are not, themselves, primary data sources. ([Verywell Health][10])
+
+* **Methodological / limitation notes**
+
+  * Devices, placement (hip vs wrist vs phone), and algorithms for step detection have **changed substantially** over time, making direct comparison of 2005–2006 NHANES counts with 2020s wearable data problematic. ([cdc.gov][12])
+  * Many recent, large step-count studies are **international and not U.S.-exclusive**, so their “average” values represent mixed populations. ([thelancet.com][11])
+  * Given these constraints, assigning a single U.S. “average daily step count” for adults 30–39 in 2020+ would be **speculative** and is therefore avoided.
+
+---
+
+#### Indicator 4 — Resting Heart Rate (RHR)
+
+> “Average resting heart rate of women aged 30–39 in the United States.”
+
+* **Age range used**
+
+  * Clinical and public-health references typically provide **broad adult ranges (≥10 or ≥18 years)**, not narrow national estimates for women 30–39. ([pmc.ncbi.nlm.nih.gov][13])
+  * Historical NHANES 1999–2008 “resting pulse rate reference data” include age- and sex-specific distributions, but detailed means for women 30–39 are not readily extractable via open summaries. ([ResearchGate][14])
+
+* **Mean value**
+
+  * **No reliable 2020+ U.S. national estimate of “average resting heart rate” specific to women aged 30–39 was identified.**
+  * Contemporary U.S. and international clinical references consistently describe a **“normal” adult resting range of about 60–100 beats per minute (bpm)**, with lower values common in more physically fit individuals. ([pmc.ncbi.nlm.nih.gov][13])
+  * Within this range, population distributions often show many adults clustering in the **60s–70s bpm**, but precise U.S. 30–39-specific means are not available from 2020+ national datasets accessible here.
+
+* **Country/region**
+
+  * United States for NHANES-based reference data, plus global/US-oriented clinical guidance (AHA, major reviews). ([ResearchGate][14])
+
+* **Year(s) of data collection (for key references)**
+
+  * NHANES resting pulse reference: **1999–2008**. ([ResearchGate][14])
+  * AHA and clinical guidance on “normal” RHR: updated regularly; current statements appear in **2021–2024** guideline and statistics documents. ([pmc.ncbi.nlm.nih.gov][13])
+
+* **Source name(s)**
+
+  * **“Resting pulse rate reference data for children, adolescents, and adults: United States, 1999–2008”** (NHANES). ([ResearchGate][14])
+  * **AHA / major clinical reviews** on resting heart rate and cardiovascular risk. ([pmc.ncbi.nlm.nih.gov][13])
+  * **Educational health resources** (e.g., VerywellHealth, Everlywell) that summarize normal RHR ranges, used only as support for the 60–100 bpm “normal” range. ([Verywell Health][15])
+
+* **Methodological / limitation notes**
+
+  * RHR is highly **variable between individuals and over time** (stress, medications, cardiovascular fitness, measurement position), so even a true population “average” would have limited meaning for individual assessment. ([News-Medical][16])
+  * NHANES measurements were taken under standardized conditions, but the 1999–2008 timeframe precedes major secular changes (e.g., obesity trends, medication use), so using those data as a 2020+ benchmark would be misleading.
+
+---
+
+### (3) Limitations & Ethical Considerations
+
+* **Missing / inconsistent age-specific data (30–39)**
+
+  * For all four indicators, **no 2020+ U.S. national surveillance dataset accessible here provides clean, age- and sex-specific means for the narrow 30–39 group (or women 30–39)**.
+  * Sleep and physical-activity surveillance since 2020 often report **categories (short vs recommended sleep; meeting vs not meeting guidelines)** rather than raw means, and RHR is typically framed in terms of “normal ranges” rather than national averages.
+
+* **Pre-2020 limitations**
+
+  * Where numeric values exist (NHANES sleep means; accelerometer steps; resting pulse reference data), they are drawn from **1999–2018** and thus classified as **pre-2020 background**. ([pmc.ncbi.nlm.nih.gov][1])
+  * Health behaviors and measurement technologies have **changed substantially** since those periods (smartphones, wearables, COVID-19 disruptions), making direct application of older averages to today’s 30–39-year-olds inappropriate. ([cdc.gov][12])
+
+* **Population averages vs individual health**
+
+  * Even if perfect age-specific means existed, **population averages cannot and should not be used to judge individual health**:
+
+    * Sleep need varies by genetics, health conditions, and work schedules. ([cdc.gov][3])
+    * MVPA, steps, and RHR are strongly shaped by occupation, disability, medications, and fitness level; a person can be healthy while being above or below the “average.” ([ncbi.nlm.nih.gov][17])
+
+* **Ethical caution in usage**
+
+  * These benchmarks are **for contextual education only**, not for diagnosis, treatment, or individualized risk stratification.
+  * Applying them to individuals or small groups (e.g., by race/ethnicity, income, or workplace) risks **over-generalization and stigmatization**, especially where local environments differ markedly from national averages. ([jamanetwork.com][4])
+  * Any digital coaching or AI-driven feedback built on these numbers should:
+
+    * Emphasize **ranges and trends**, not “good vs bad” labels.
+    * Encourage users to discuss health metrics with **licensed clinicians**, especially for heart rate and sleep disorders.
+    * Make **data gaps explicit** (for example, clearly stating “no reliable 2020+ U.S. estimate is available for this metric in women 30–39”).
+
+---
+
+### (4) References
+
+*(Grouped by indicator, but many overlap)*
+
+**Sleep (Indicator 1)**
+
+1. Li J. et al. (2022). *Association between sleep duration and albumin in US adults: NHANES 2015–2018.* Peer-reviewed article using nationally representative NHANES data; reports mean adult sleep duration (~7.65 h). ([pmc.ncbi.nlm.nih.gov][1])
+2. Adjaye-Gbewonyo D. et al. (2022). *Sleep Difficulties in Adults: United States, 2020.* NCHS Data Brief, CDC/NCHS; national survey report on self-reported sleep problems. ([cdc.gov][3])
+3. Ford E.S. et al. (2015). *Trends in Self-Reported Sleep Duration among US Adults, 1985–2012.* Peer-reviewed analysis of NHIS sleep-duration trends (>400k adults). ([pmc.ncbi.nlm.nih.gov][18])
+4. MMWR (c. 2017–2019). *Percentage of Adults Aged ≥18 Years Who Sleep <7 Hours, by Sex and Age Group — United States.* National surveillance brief on short sleep prevalence. ([pmc.ncbi.nlm.nih.gov][5])
+5. Newsome V. et al. (2017). *Sleep Duration, Place of Birth, and Health among US Adults.* Peer-reviewed NHIS analysis on sleep duration distribution and sociodemographic correlates. ([mdpi.com][19])
+
+**MVPA (Indicator 2)**
+6. U.S. Department of Health and Human Services (2018). *Physical Activity Guidelines for Americans, 2nd edition.* Federal guideline monograph outlining 150–300 min/week MVPA recommendation for adults. ([health.gov][6])
+7. American Heart Association (2024). *Heart Disease and Stroke Statistics — 2024 Update.* Comprehensive statistical report; notes that ~24.2% of U.S. adults meet national physical-activity recommendations. ([www.heart.org][7])
+8. Wolff-Hughes D.L. et al. (2015). *Total Activity Counts and Bouted Minutes of Moderate-to-Vigorous Physical Activity: Relationships With Cardiometabolic Biomarkers Using 2003–2006 NHANES.* Peer-reviewed article using accelerometer data. ([PubMed][20])
+9. Strath S.J. et al. (2008). *Objective Physical Activity Accumulation in Bouts and Non-bouts and Relation to Markers of Obesity in US Adults.* Peer-reviewed NHANES accelerometer analysis. ([pmc.ncbi.nlm.nih.gov][8])
+
+**Daily Steps (Indicator 3)**
+10. Tudor-Locke C. et al. (2009). *Accelerometer-determined steps per day in US adults.* NHANES 2005–2006 study reporting average steps/day in adults ≥20 years. ([PubMed][2])
+11. Kim Y. et al. (2015). *Descriptive Epidemiology of Objectively Measured Walking Behavior in the United States.* CDC’s Preventing Chronic Disease; NHANES-based step-count analysis. ([cdc.gov][12])
+12. Paluch A.E. et al. (2022). *Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts.* Lancet Public Health; dose-response relationship between steps and mortality. ([PubMed][21])
+13. Ding D. et al. (2025). *Daily steps and health outcomes in adults: a systematic review.* Lancet Public Health; umbrella review of steps and health. ([thelancet.com][22])
+14. Verywell Health editorial team (2024–2025). *Average steps per day; Steps per day by age and sex.* Consumer health summaries synthesizing multiple cohort studies; used only for broad contextual ranges. ([Verywell Health][10])
+
+**Resting Heart Rate (Indicator 4)**
+15. Nwankwo T. et al. (2011). *Resting pulse rate reference data for children, adolescents, and adults: United States, 1999–2008.* NHANES-based reference paper for RHR distributions. ([ResearchGate][14])
+16. Sobieraj P. et al. (2021). *Resting Heart Rate and Cardiovascular Outcomes during Follow-up in the General Population.* Peer-reviewed article summarizing RHR and risk; reiterates typical 60–100 bpm “normal” range. ([pmc.ncbi.nlm.nih.gov][13])
+17. American Heart Association (various, incl. 2024 stats). *Normal resting heart rate guidance* (e.g., 60–100 bpm for adults; lower in fitter individuals). ([pmc.ncbi.nlm.nih.gov][13])
+18. News-Medical (2020). *Normal resting heart rate may vary from person to person.* Lay summary of research on individual variability in RHR. ([News-Medical][16])
+19. VerywellHealth / Everlywell (2022–2024). *Resting heart rate by age and gender.* Educational pages summarizing accepted normal ranges; not used as primary epidemiologic data. ([Verywell Health][15])
+
+---
+
+**Where indicators lack numeric 2020+ benchmarks (MVPA minutes, steps for 30–39, RHR for women 30–39), the absence reflects genuine gaps in accessible national data—not omission. Any downstream dashboard or coaching feature should surface these gaps explicitly rather than silently substituting guesses.**
+
+[1]: https://pmc.ncbi.nlm.nih.gov/articles/PMC9161202/?utm_source=chatgpt.com "Association between sleep duration and albumin in US ..."
+[2]: https://pubmed.ncbi.nlm.nih.gov/19516163/?utm_source=chatgpt.com "Accelerometer-determined steps per day in US adults"
+[3]: https://www.cdc.gov/nchs/products/databriefs/db436.htm?utm_source=chatgpt.com "Sleep Difficulties in Adults: United States, 2020"
+[4]: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790797?utm_source=chatgpt.com "Evaluation of Trends in Racial and Ethnic Disparities ..."
+[5]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8912002/?utm_source=chatgpt.com "Percentage of Adults Aged ≥18 Years Who Sleep <7 ..."
+[6]: https://health.gov/sites/default/files/2019-09/Physical_Activity_Guidelines_2nd_edition.pdf?utm_source=chatgpt.com "Physical Activity Guidelines for Americans, 2nd edition"
+[7]: https://www.heart.org/en/-/media/Files/Professional/Quality-Improvement/Get-With-the-Guidelines/Get-With-The-Guidelines-AFIB/AFib-Month/2024-AHA-Statistical-Update.pdf?sc_lang=en&utm_source=chatgpt.com "2024 Heart Disease and Stroke Statistics: A Report of US ..."
+[8]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2578774/?utm_source=chatgpt.com "Objective Physical Activity Accumulation in Bouts and ..."
+[9]: https://www.researchgate.net/publication/50598405_Moderate_and_vigorous_physical_activity_intensity_cut-points_for_the_Actical_accelerometer?utm_source=chatgpt.com "Moderate and vigorous physical activity intensity cut-points ..."
+[10]: https://www.verywellhealth.com/average-steps-per-day-8671820?utm_source=chatgpt.com "The Number of Steps per Day to Target for Your Age and Sex"
+[11]: https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667%2821%2900302-9/fulltext?utm_source=chatgpt.com "Daily steps and all-cause mortality: a meta-analysis of 15 ..."
+[12]: https://www.cdc.gov/pcd/issues/2015/15_0437.htm?utm_source=chatgpt.com "Descriptive Epidemiology of Objectively Measured Walking ..."
+[13]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8347499/?utm_source=chatgpt.com "Resting Heart Rate and Cardiovascular Outcomes during ..."
+[14]: https://www.researchgate.net/publication/51637090_Resting_pulse_rate_reference_data_for_children_adolescents_and_adults_United_States_1999-2008?utm_source=chatgpt.com "Resting pulse rate reference data for children, adolescents ..."
+[15]: https://www.verywellhealth.com/resting-heart-rate-by-age-5218932?utm_source=chatgpt.com "What's a Normal Resting Heart Rate by Age? Charts & Health Tips"
+[16]: https://www.news-medical.net/news/20200206/Normal-resting-heart-rate-may-vary-from-person-to-person.aspx?utm_source=chatgpt.com "Normal resting heart rate may vary from person to person"
+[17]: https://www.ncbi.nlm.nih.gov/books/NBK566046/?utm_source=chatgpt.com "RECOMMENDATIONS - WHO Guidelines on Physical Activity ..."
+[18]: https://pmc.ncbi.nlm.nih.gov/articles/PMC4402659/?utm_source=chatgpt.com "Trends in Self-Reported Sleep Duration among US Adults ..."
+[19]: https://www.mdpi.com/1660-4601/14/7/738?utm_source=chatgpt.com "Analysis of the National Health Interview Survey (NHIS)"
+[20]: https://pubmed.ncbi.nlm.nih.gov/25109602/?utm_source=chatgpt.com "Total Activity Counts and Bouted Minutes of Moderate-to- ..."
+[21]: https://pubmed.ncbi.nlm.nih.gov/35247352/?utm_source=chatgpt.com "Daily steps and all-cause mortality: a meta-analysis of 15 ..."
+[22]: https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667%2825%2900164-1/fulltext?utm_source=chatgpt.com "Daily steps and health outcomes in adults: a systematic ..."
