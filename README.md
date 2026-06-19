@@ -1,3 +1,5 @@
+Link directo: https://emilywellnessapp-cj2kh5s3ouwsfwzkyuaax6.streamlit.app/
+
 # ⚡ Emily's Wellness Dashboard
 
 ## 📋 Descripción General
